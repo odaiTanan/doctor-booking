@@ -1,0 +1,12 @@
+C:\Users\odear\source\repos\school\school\obj\Debug\school.csprojAssemblyReference.cache
+C:\Users\odear\source\repos\school\school\obj\Debug\school.Properties.Resources.resources
+C:\Users\odear\source\repos\school\school\obj\Debug\school.csproj.GenerateResource.cache
+C:\Users\odear\source\repos\school\school\obj\Debug\school.csproj.CoreCompileInputs.cache
+C:\Users\odear\source\repos\school\school\obj\Debug\school.Form1.resources
+C:\Users\odear\source\repos\school\school\obj\Debug\school.Form2.resources
+C:\Users\odear\source\repos\school\school\obj\Debug\school.SEARCH.resources
+C:\Users\odear\source\repos\school\school\bin\Debug\Doctor Clinic.exe.config
+C:\Users\odear\source\repos\school\school\bin\Debug\Doctor Clinic.exe
+C:\Users\odear\source\repos\school\school\bin\Debug\Doctor Clinic.pdb
+C:\Users\odear\source\repos\school\school\obj\Debug\Doctor Clinic.exe
+C:\Users\odear\source\repos\school\school\obj\Debug\Doctor Clinic.pdb
